@@ -58,5 +58,3 @@ If running on Kaggle, simply attach the **Indian Driving Dataset (IDD)** to your
 2. Run all cells to initialize data configurations, display sample images, and train the YOLOv11 model.
 3. Review the outputs in the generated `runs/detect/` folder to analyze the training metrics, validation scores, and final predictions on the test set.
 
-## Attribution
-This project was developed on Kaggle. [View the original notebook here](https://www.kaggle.com/code/pranayfadtare777/notebook934aa61c58).
